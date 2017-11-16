@@ -1,0 +1,17 @@
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\bin\Debug\NumInt.exe
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\bin\Debug\NumInt.pdb
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\bin\Debug\ZedGraph.dll
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\NumInt.Form1.resources
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\NumInt.Properties.Resources.resources
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\NumInt.csproj.GenerateResource.Cache
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\NumInt.exe
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\NumInt.pdb
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\obj\x86\Debug\NumInt.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\obj\x86\Debug\Integration.Form1.resources
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\obj\x86\Debug\NumInt.Properties.Resources.resources
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\obj\x86\Debug\NumInt.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\obj\x86\Debug\NumInt.exe
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\obj\x86\Debug\NumInt.pdb
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\bin\Debug\NumInt.exe
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\bin\Debug\NumInt.pdb
+C:\Users\admin\Desktop\Downloads\Dima\Lab 2.1\Lagranj\bin\Debug\ZedGraph.dll

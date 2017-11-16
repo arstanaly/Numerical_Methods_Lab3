@@ -1,0 +1,81 @@
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\bin\Debug\Lagranj.exe
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\bin\Debug\Lagranj.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\obj\x86\Debug\Lagranj.exe
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\obj\x86\Debug\Lagranj.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Lagranj\Lagranj\bin\Debug\ZedGraph.dll
+F:\KRSU\Sklyar_KRSU_2016-2017\3й курс\Осень\Lab-2\Ахмаджанова Мадина\Lagranj\Lagranj\obj\x86\Debug\Lagranj.exe
+F:\KRSU\Sklyar_KRSU_2016-2017\3й курс\Осень\Lab-2\Ахмаджанова Мадина\Lagranj\Lagranj\obj\x86\Debug\Lagranj.pdb
+C:\Users\Admin\Desktop\Lagranj\Lagranj\obj\x86\Debug\Lagranj.exe
+C:\Users\Admin\Desktop\Lagranj\Lagranj\obj\x86\Debug\Lagranj.pdb
+C:\Users\Admin\Desktop\Lagranj\Lagranj\bin\Debug\Lagranj.exe
+C:\Users\Admin\Desktop\Lagranj\Lagranj\bin\Debug\Lagranj.pdb
+C:\Users\Admin\Desktop\Lagranj\Lagranj\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\Lagranj\Lagranj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Lagranj\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+C:\Users\Admin\Desktop\Lagranj\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+C:\Users\Admin\Desktop\Lagranj\Lagranj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Lagranj\Lagranj\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\obj\x86\Debug\Lagranj.exe
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\obj\x86\Debug\Lagranj.pdb
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\bin\Debug\Lagranj.exe
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\bin\Debug\Lagranj.pdb
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\bin\Debug\ZedGraph.dll
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Lagranj\Lagranj\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Лагранж\Lagranj\obj\x86\Debug\Lagranj.exe
+J:\SPRING_2017\Numerical Methods_Spring-2017\SKLYAR_S-2017\Labs\Lab_1\Программа\Лагранж\Lagranj\obj\x86\Debug\Lagranj.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\obj\x86\Debug\Lagranj.exe
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\obj\x86\Debug\Lagranj.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\bin\Debug\Lagranj.exe
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\bin\Debug\Lagranj.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\bin\Debug\ZedGraph.dll
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\obj\x86\Debug\Lagranj.csprojResolveAssemblyReference.cache
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\SKLYAR_S\Labs\Lab_1\Основа для программы\Лагранж\Lagranj\obj\x86\Debug\Lagranj.csproj.GenerateResource.Cache
+Z:\Лагранж\Lagranj\obj\x86\Debug\Lagranj.exe
+Z:\Лагранж\Lagranj\obj\x86\Debug\Lagranj.pdb
+Z:\Лагранж\Lagranj\bin\Debug\Lagranj.exe
+Z:\Лагранж\Lagranj\bin\Debug\Lagranj.pdb
+Z:\Лагранж\Lagranj\bin\Debug\ZedGraph.dll
+Z:\Лагранж\Lagranj\obj\x86\Debug\Lagranj.csprojResolveAssemblyReference.cache
+Z:\Лагранж\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+Z:\Лагранж\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+Z:\Лагранж\Lagranj\obj\x86\Debug\Lagranj.csproj.GenerateResource.Cache
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\obj\x86\Debug\Lagranj.exe
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\obj\x86\Debug\Lagranj.pdb
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\bin\Debug\Lagranj.exe
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\bin\Debug\Lagranj.pdb
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\bin\Debug\ZedGraph.dll
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\obj\x86\Debug\Lagranj.csprojResolveAssemblyReference.cache
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+Z:\My Numerical\Lab 1.2\Лагранж\Lagranj\obj\x86\Debug\Lagranj.csproj.GenerateResource.Cache
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.exe
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.pdb
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.exe
+H:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.pdb
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.csprojResolveAssemblyReference.cache
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\obj\x86\Debug\Lagranj.csproj.GenerateResource.Cache
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\bin\Debug\Lagranj.exe
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\bin\Debug\Lagranj.pdb
+R:\Courses Information Support\Natural Sciences and Information Technologies\MAT 407 Numerical Methods (eng)\Students\Kim Aleksandr\Lab 2\Lagranj\bin\Debug\ZedGraph.dll
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\Lagranj.exe
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\Lagranj.pdb
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\bin\Debug\Lagranj.exe
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\bin\Debug\Lagranj.pdb
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\bin\Debug\ZedGraph.dll
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\Lagranj.csprojResolveAssemblyReference.cache
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\Lagranj.Form1.resources
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\Lagranj.Properties.Resources.resources
+D:\Work\AUCA\NumMeth\Lab 2 Numerical\Lab 2 final\Lagranj\obj\x86\Debug\Lagranj.csproj.GenerateResource.Cache

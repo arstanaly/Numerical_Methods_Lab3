@@ -1,0 +1,9 @@
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\bin\Debug\NumInt.exe
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\bin\Debug\NumInt.pdb
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\bin\Debug\ZedGraph.dll
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\obj\x86\Debug\Integration.Form1.resources
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\obj\x86\Debug\NumInt.Properties.Resources.resources
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\obj\x86\Debug\RungeKutta.csproj.GenerateResource.Cache
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\obj\x86\Debug\NumInt.exe
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\obj\x86\Debug\NumInt.pdb
+D:\AUCA\Numerical methods\HW\Lab_3(FINAL)\Lagranj\obj\x86\Debug\RungeKutta.csprojResolveAssemblyReference.cache
